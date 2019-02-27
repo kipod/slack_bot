@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": ".venv\\Scripts\\python3.exe",
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        ".venv"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.venvPath": "/.venv"
+}
